@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogdown on A website</title>
+    <link>/ncreportist.github.io/tags/blogdown/</link>
+    <description>Recent content in blogdown on A website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/ncreportist.github.io/tags/blogdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Post on 2018-01-01</title>
+      <link>/ncreportist.github.io/test-post-on-2018-01-01/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ncreportist.github.io/test-post-on-2018-01-01/</guid>
+      <description>This is a test post using blowdown, an implementation of static site generator Hugo which adds extended features, namely Pandoc, which allows me to add citations to my posts like this (aitken et al. 1986). This implenetation uses .Rmd files rather than .md files
+I had previously been using jekyll-scholar but the citation makers were just not pretty and Pandoc is a far superior
+Some futher reading:
+ https://alison.rbind.io/post/up-and-running-with-blogdown/   The list of tools I’m using to write this post is below:</description>
+    </item>
+    
+  </channel>
+</rss>
