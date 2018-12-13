@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bibles on A website</title>
+    <link>/categories/bibles/</link>
+    <description>Recent content in bibles on A website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/bibles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>John Piper Crossway Legacy ESV</title>
+      <link>/john-piper-crossway-legacy-esv/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/john-piper-crossway-legacy-esv/</guid>
+      <description>john-piper-esv
+ This picture popped up on my facebook feed. It shows John Piper with a Crossway Thinline Heirloom ESV. 8pt font, double column, this is slightly smaller than my 9.5pt font, single column heirloom legacy. Both have the goatskin leather.</description>
+    </item>
+    
+  </channel>
+</rss>
