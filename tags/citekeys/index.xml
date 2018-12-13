@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>citekeys on A website</title>
+    <link>/tags/citekeys/</link>
+    <description>Recent content in citekeys on A website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/citekeys/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chris&#39; Citekey List</title>
+      <link>/citekeys/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/citekeys/</guid>
+      <description>edit1
+aitken1986 This Is the Long Title of the Book Which Will Span Lots of Lines
+andrews1956 Brethren Hymnology
+banks1883 The Church and Churches of God: A Suggestive Outline of Truth
+banks1994 Paul Idea of Community
+barnett2015 1 Corinthians
+bassey1981 Giving by the People of God
+blomberg1995 1 Corinthians
+bock1994 Luke 1:1-9:50
+bock1996 Luke 9:51-24:53
+boswell1895 NT (1895)
+boswell1895a The School of God
+boswell1895b Our Relationship to the Sects
+boyle2015 David Cameron Used Swarm&#39; Instead ofPlague’ in Case It Implied That God Had Sent the Migrants</description>
+    </item>
+    
+  </channel>
+</rss>
