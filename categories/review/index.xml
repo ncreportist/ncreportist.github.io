@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>review on A website</title>
-    <link>/ncreportist.github.io/categories/review/</link>
+    <link>/categories/review/</link>
     <description>Recent content in review on A website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/ncreportist.github.io/categories/review/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Article Review: Fortune Cookie Christian</title>
-      <link>/ncreportist.github.io/article-review-fortune-cookie-christian/</link>
+      <link>/article-review-fortune-cookie-christian/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ncreportist.github.io/article-review-fortune-cookie-christian/</guid>
+      <guid>/article-review-fortune-cookie-christian/</guid>
       <description>https://biblestudy.tips/fortune-cookie-christianity/
 The writer outlines a solution to “Fortune Cookie Christianity”
  1. Eat the Main Course
@@ -27,10 +27,10 @@ The writer outlines a solution to “Fortune Cookie Christianity”
     
     <item>
       <title>Book Review: Against the Flow</title>
-      <link>/ncreportist.github.io/book-review-against-the-flow/</link>
+      <link>/book-review-against-the-flow/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ncreportist.github.io/book-review-against-the-flow/</guid>
+      <guid>/book-review-against-the-flow/</guid>
       <description>If God is real, how could a pagan emperor like Nebuchadnezzar violate the sanctity of God’s unique temple and get away with it? Why did God do nothing? This is in essence the hard question that is still very much with us today in a thousand different specific forms. The temple in Jerusalem was nothing but a building, its vessels nothing but human artefacts, however beautiful and valuable. The idea that God, if there were a God, would be interested in such an insignificant matter is patently absurd.</description>
     </item>
     

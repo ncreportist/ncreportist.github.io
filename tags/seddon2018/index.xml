@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>@seddon2018 on A website</title>
-    <link>/ncreportist.github.io/tags/seddon2018/</link>
+    <link>/tags/seddon2018/</link>
     <description>Recent content in @seddon2018 on A website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/ncreportist.github.io/tags/seddon2018/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/seddon2018/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Steve&#39;s Email</title>
-      <link>/ncreportist.github.io/steves-email/</link>
+      <link>/steves-email/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ncreportist.github.io/steves-email/</guid>
+      <guid>/steves-email/</guid>
       <description>Email sent 25th May 2015
 Steve Seddon to Chris Aitken
 Hi Chris.

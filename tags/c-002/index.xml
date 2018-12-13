@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C-002 on A website</title>
-    <link>/ncreportist.github.io/tags/c-002/</link>
+    <link>/tags/c-002/</link>
     <description>Recent content in C-002 on A website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/ncreportist.github.io/tags/c-002/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/c-002/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>C-002</title>
-      <link>/ncreportist.github.io/c-002/</link>
+      <link>/c-002/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/ncreportist.github.io/c-002/</guid>
+      <guid>/c-002/</guid>
       <description>Test
 John 3
 John 4:1,6
@@ -25,10 +25,10 @@ Mark 6:1;7:1-2</description>
     
     <item>
       <title>C-002</title>
-      <link>/ncreportist.github.io/c-002/</link>
+      <link>/c-002/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/ncreportist.github.io/c-002/</guid>
+      <guid>/c-002/</guid>
       <description>Test
 John 3
 John 4:1,6

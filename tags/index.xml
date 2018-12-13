@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on A website</title>
-    <link>/ncreportist.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on A website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/ncreportist.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>@seddon2018</title>
-      <link>/ncreportist.github.io/tags/seddon2018/</link>
+      <link>/tags/seddon2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ncreportist.github.io/tags/seddon2018/</guid>
+      <guid>/tags/seddon2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C-001</title>
-      <link>/ncreportist.github.io/tags/c-001/</link>
+      <link>/tags/c-001/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/ncreportist.github.io/tags/c-001/</guid>
+      <guid>/tags/c-001/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C-002</title>
-      <link>/ncreportist.github.io/tags/c-002/</link>
+      <link>/tags/c-002/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/ncreportist.github.io/tags/c-002/</guid>
+      <guid>/tags/c-002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L-002</title>
-      <link>/ncreportist.github.io/tags/l-002/</link>
+      <link>/tags/l-002/</link>
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ncreportist.github.io/tags/l-002/</guid>
+      <guid>/tags/l-002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L-003</title>
-      <link>/ncreportist.github.io/tags/l-003/</link>
+      <link>/tags/l-003/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/ncreportist.github.io/tags/l-003/</guid>
+      <guid>/tags/l-003/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T-001</title>
-      <link>/ncreportist.github.io/tags/t-001/</link>
+      <link>/tags/t-001/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/ncreportist.github.io/tags/t-001/</guid>
+      <guid>/tags/t-001/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aconex</title>
-      <link>/ncreportist.github.io/tags/aconex/</link>
+      <link>/tags/aconex/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ncreportist.github.io/tags/aconex/</guid>
+      <guid>/tags/aconex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blogdown</title>
-      <link>/ncreportist.github.io/tags/blogdown/</link>
+      <link>/tags/blogdown/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ncreportist.github.io/tags/blogdown/</guid>
+      <guid>/tags/blogdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>citekeys</title>
-      <link>/ncreportist.github.io/tags/citekeys/</link>
+      <link>/tags/citekeys/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ncreportist.github.io/tags/citekeys/</guid>
+      <guid>/tags/citekeys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cog</title>
-      <link>/ncreportist.github.io/tags/cog/</link>
+      <link>/tags/cog/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ncreportist.github.io/tags/cog/</guid>
+      <guid>/tags/cog/</guid>
       <description></description>
     </item>
     
