@@ -1,0 +1,43 @@
+---
+title: "asbuilt folder update"
+date: "2018-01-01"
+categories: []
+tags: []
+bibliography: Library.bib
+typora-root-url: ../../public/
+draft: true
+---
+
+
+
+## Admin
+
+**1:** Download latest QC9 drawings
+​	
+
+  * Aconex supersearch "DBCE\*QC9\*"
+  * Sort by date (most recent 1st)
+  * Select all uploaded after previous review date
+  * Download and print in A3 (single sided)
+
+![qcsearch](/qcsearch.png)
+
+**2:** Write on 1st page a note @ top right of page with "Aconex reference" / "Level-Zone" / "Revision" (see below). Add a post it note as book mark (marked for review by CA)
+​	
+  * e.g, QC-035 / L1-C2 / Rev.01
+
+![](/label.jpg)
+
+**3:** File into tabs with level-zone written on tab e.g. "L0-A2" or "L3-A3.1(w)"
+
+![](/tab.jpg)
+
+**4:** For any items greater than Rev00, file on top of previous revision
+
+**Notes:** Keep the post it note in place so I can determine what is to be reviewed
+
+## Review
+
+1. Date stamp 1st page & remove post-it note
+1. Review
+1. Update tracker

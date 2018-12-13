@@ -1,0 +1,66 @@
+---
+title: "Trimble Complaint Letter"
+Date: "2018-01-01"
+categories: []
+tags: []
+typora-root-url: ../../public/
+bibliography: Library.bib
+draft: true
+---
+
+
+
+## Visit 1
+
+Error with the DWG drawing. Machine was picking up hidden lines on the provided drawings. Architect instructed to strip down the drawings to bare walls.
+
+## Visit 2 - 23/5/2016
+
+Site measurements:
+
+Method: set out 2 points and check distance with both tape and QML800
+
+Check 1:
+
+* Tape: 5800mm
+* QML800: 5796mm
+	* **4mm difference over 5.8m**
+	* Human error with compensator not switched on
+
+Check 2 (w/ fixed compensator error):
+
+* Tape: 2000mm
+* QML800: 1998mm
+	* **2mm over 2m**
+
+Check 3:
+
+* Tape: 11805mm
+* QML800: 11739mm
+	* **66mm over 11.8m**
+
+Check 4:
+
+* Tape: 8619mm
+* QML800: 8604mm
+	* **15mm over 8.6m**
+	* Human error with compensator not switched on for second time
+  * Flashing light on one laser
+	* Re-calibrated device
+  
+Check 5 (w/ fixed compensator/re-calibration):
+
+* Tape: 8619mm
+* QML800: 8611mm
+	* **8mm over 8.6m**
+
+Initially stated that the reason for the errors was that there was an error with one of the lasers (the light was flashing). It was then stated via a phone call a few eeks later that it wasn't an issue with the laser, but the fact that the origin point was 700km away. It was claimed that this was due to the tablet beinga 32 device and the laptop being a 64 device. Specialists had produced a modified drawing with the origin moved to the center of the building
+
+
+## Visit 3 - 10/5/2016
+
+On the 3rd visit, I provided a clear asbuilt drawing showing where the gridlines were located and the offset direction/distance. We found on site that he had still managed to pick the wrong gridline on the software. This took 30 mins to go back to the office and  switch the drawings.
+
+The drawing was swithed with a drawing with the original origin (700km away).
+
+

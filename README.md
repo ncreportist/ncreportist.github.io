@@ -1,1 +1,3 @@
-# ncreportist.github.io
+https://github.com/mobybit/hugo-natrium-theme
+
+https://blog.mobybit.de/

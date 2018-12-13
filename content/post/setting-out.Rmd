@@ -1,0 +1,71 @@
+---
+title: "Setting Out Tips"
+Date: "2018-01-01"
+categories: []
+tags: []
+typora-root-url: ../../public/
+bibliography: Library.bib
+draft: true
+---
+
+
+
+Setting out
+
+## Curve-setting out
+
+
+## Sending out sketches
+
+* Mailing
+	- Use BMCE-GC-011615 for both ENV and INT markups
+	- CC: Aconex Group "Setting out mailing list"
+	- To: Thomas Norrie
+* File naming convention
+	- [ENV or INT]-[Level]-[Zone/Area] [Details] [Date setout]
+	- e.g ENV-L3-CYD-NFace Grid 160823
+* Document managment
+	- move to sent folder after Sending
+
+
+## Working/Control job naming
+
+Note: Leica Jobs have a 16 MAX characters limit
+
+* Option 1
+	* Use 5 characters MAX for Working Job. Add the date for the working job.
+		* e.g. `INTL3-161110` ,  `INTL03-161110_01` where "INT" is the job, "L03" is the level/zone, "161110" is the date
+	* OR Use 7 characters MAX for Control Job. Add the date for the working job.
+		* e.g. EXTL201-20161110 (where "01" is sequential number)
+		* This would be my preference
+
+## Ideas to implement
+
+* Use code for point description
+	* e.g. "OS400" (for offset 400mm), "OS1m" (offset of 1 meter)
+
+## Perpendicular lines
+
+![](../images/perp-lines.png)
+
+## Bolting to concrete
+
+http://www.tapcon.com/ 
+
+http://www.itwcp.co.uk/products/spit/mechanical-anchors/concrete-screws/tapcon-countersunk/
+
+![](../images/tapcon-1.png)
+![](../images/tapcon-2.png)
+
+OR
+
+32mm Mag Nails (aka. Steel Survey Pk Nail)
+
+http://www.mpsurvey.co.uk/product2/mag-nails-32mm-1-14/
+
+https://www.speedyservices.com/c0902080-s-steel-survey-nail-32mm-pk-nail
+
+note: these are easy to come by in many shops.
+
+ALternatively a new product called "Pin Mark Nail" in combination with "Pin MArk Setting out tool". Hilti do a similar tool.
+

@@ -1,0 +1,15 @@
+---
+title: "Left Hand Right Hand Piano"
+Date: "2018-01-01"
+categories: []
+tags: []
+typora-root-url: ../../public/
+bibliography: Library.bib
+draft: true
+---
+
+
+
+#
+
+dont let your left hand know what your right hand is doing. Unless your playing the piano.

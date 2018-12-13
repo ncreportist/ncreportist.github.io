@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.49.2" />
+
+
+<title>naming conventions - A website</title>
+<meta property="og:title" content="naming conventions - A website">
+
+
+
+  
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/main.css" media="all">
+<link rel="stylesheet" href="/css/fonts.css">
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/logo.png" 
+         width="50" 
+         height="50" 
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/categories">Categories</a></li>
+    
+    <li><a href="/tags">Tags</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+  <article class="article">
+    <h1 class="article-title">naming conventions</h1>
+    
+    <span class="article-date">2018-01-01</span>
+    
+
+    <div class="article-content">
+      <div id="version-control" class="section level2">
+<h2>Version control</h2>
+<ul>
+<li><strong>Option 1:</strong> For Office documents, maintain an office file with tag “_MASTER“. E.g,”DocName_MASTER.xsl“. When releasing a document, save-as PDF and tag with”_yymmdd&quot; (e.g. DocName_160501.pdf)</li>
+</ul>
+<p>This ensures that there is a “one version of the truth” version (the office document) as well as snapshot revisions. If updating a file more than once in a day (rare), use the format “_160501a, _160501a etc“.</p>
+<ul>
+<li><strong>Option 2:</strong> For files where it isn’t suitable for converting to PDFs (e.g. DWG or RVT), use the following rules
+<ol style="list-style-type: decimal">
+<li>Use revision numbers instead of dates e.g. “DrawingName_00.dwg” where _00 is the revision number</li>
+<li>When sending out a new revision, save-as a new revision number before sending</li>
+<li>After sending, make any modifications to the current revision</li>
+</ol></li>
+<li><strong>Option 3:</strong> For paper files (handwritten markups etc.), keep all items stored in a tabbed physical folder and email out snapshots. Do not keep a copy. This ensures the document in the folder is the single version of the truth. Optional: Use a blank A3/A4 cover page for writing related notes</li>
+</ul>
+<p>Note:Some situations requre both such as logistics drawings which contain services</p>
+</div>
+<div id="file-naming" class="section level2">
+<h2>File naming</h2>
+<ul>
+<li>for a title, use “CamelCase.ext” , “seperate by spaces.ext” “or_underscores.ext”</li>
+<li>use-scores-for-version-number-or-hierarachy.ext</li>
+<li>use_underscores_for_and.ext</li>
+<li>Use folders
+<ul>
+<li>Company</li>
+<li>Project</li>
+</ul></li>
+<li>If going to an external client, begin with the client’s name. E.g. ClientName-Tracker160606-03-grayscale.pdf</li>
+<li>Add notes with a score-like_this.ext</li>
+<li>For revision numbering, use numbers and for small changes (e.g. comments from client), use an additional letters e.g.
+<ul>
+<li>ClientName-Tracker160606-03-grayscale.pdf</li>
+<li>ClientName-Tracker160606-03a-grayscale.pdf</li>
+<li>ClientName-Tracker160606-03b-grayscale.pdf</li>
+</ul></li>
+<li>Use a date on the publication its self so it can be printed</li>
+<li>If the file has a totally different redesign, use V2 at the end of the title e.g.
+<ul>
+<li>ClientName-Tracker160606V2-03-grayscale.pdf</li>
+</ul></li>
+<li>When including a personal name give the family name first followed by initials with no comma in between.</li>
+<li>For
+numbers 0-9, always use two digit numbers to ensure numerical order – (01, 02, 03 etc.)</li>
+<li>The version number of a record should be indicated in its file name by the inclusion of ‘V’ followed by the version number (eg V01, V03 etc.) and where applicable ‘draft.’</li>
+</ul>
+<p>see <a href="../data/naming-conventions.pdf">pdf</a> for more</p>
+</div>
+<div id="folder-naming" class="section level2">
+<h2>Folder naming</h2>
+<ul>
+<li>Use months as folder names e.g. <code>01_JAN , 02_FEB , 03_MAR etc.</code></li>
+</ul>
+</div>
+<div id="tips-from-online-source" class="section level2">
+<h2>Tips from online source</h2>
+<p>Characters to Avoid in Directories and Filenames</p>
+<p>Your web files will be viewed by numerous users who use a wide variety of operating systems (Mac, PC, and Linux for instance) and devices (desktops, tablets, and smartphones are some examples). Therefore, it is essential to play it safe and avoid common illegal directory and filename characters.</p>
+<p>Naming conventions are important in web folders as well as for downloadable files such as PDFS, Word documents, and Excel spreadsheets.</p>
+<p>Do not use any of these common illegal characters/symbols:</p>
+<p><code>#</code> pound <code>&lt;</code> left angle bracket <code>$</code> dollar sign <code>+</code> plus sign
+<code>%</code> percent <code>&gt;</code> right angle bracket <code>!</code> exclamation point ` backtick
+<code>&amp;</code> ampersand <code>*</code> asterisk <code>‘</code> single quotes <code>|</code> pipe
+<code>{</code> left bracket <code>?</code> question mark <code>“</code> double quotes <code>=</code> equal sign
+<code>}</code> right bracket <code>/</code> forward slash <code>:</code> colon<br />
+<code>\</code> back slash blank spaces <code>@</code> at sign</p>
+<p>Also, keep these rules in mind:</p>
+<ul>
+<li>Don’t start or end your filename with a space, period, hyphen, or underline.</li>
+<li>Keep your filenames to a reasonable length and be sure they are under 31 characters</li>
+<li>Most operating systems are case sensitive; always use lowercase</li>
+<li>Avoid using spaces and underscores; use a hyphen instead.</li>
+</ul>
+<p>Bad filenames:</p>
+<pre><code>F&amp;A Costs.html
+my PDF file#name.pdf</code></pre>
+<p>Web Browsers see:</p>
+<pre><code>F&amp;amp;A%20Costs.html
+my%20PDF%20file%23name.pdf</code></pre>
+<p>Good filenames:</p>
+<pre><code>index.html
+my-pdf-file-name.pdf</code></pre>
+<p>Note: This list is not exhaustive. It is meant to help you avoid common errors in filenames.</p>
+<p><code>yymmdd_n</code> solves the issue of multiple folders/files created on same date</p>
+<ul>
+<li>upto 50 characters long to avoid problems saving/copying etc</li>
+<li>Avoid in,at,so,in,and etc</li>
+<li>No spaces</li>
+<li>dates start with 2016 not 16</li>
+</ul>
+<p>V0.1 First draft
+V0.2 Second draft
+V1.0 Final approved version
+V1.1 Minor revision
+V2.0 Major revision</p>
+<p>e.g. 20120216CCVUsageReportV0.1.docx</p>
+</div>
+<div id="directory-structure" class="section level2">
+<h2>Directory structure</h2>
+<p><strong>Saving files:</strong></p>
+<p>Tip: Keep the folder your working on open and copy paste the file path when saving to PDF</p>
+<p>Copy paste</p>
+<p><img src="../images/file-path.png" /></p>
+<p>Keeping the folder open allows you to</p>
+<ul>
+<li>use explorer functions like right click “open in”</li>
+<li>explore the folder and easily hyperlink files</li>
+</ul>
+</div>
+<div id="setting-out-markups" class="section level2">
+<h2>Setting-out markups</h2>
+<ul>
+<li>Mailing
+<ul>
+<li>Use BMCE-GC-011615 for both ENV and INT markups</li>
+<li>Create a folder named “BMCE-GC-011615”</li>
+<li>CC: Aconex Group “Setting out mailing list”</li>
+<li>To: Thomas Norrie</li>
+</ul></li>
+<li>File naming convention
+<ul>
+<li>[ENV/EXT/GRID/SET/INT]-[Level]-[Zone/Area]-<a href="optional">Details</a>-[Date setout]</li>
+<li>e.g ENV-L3-CYD-NFace Grid 160823</li>
+</ul></li>
+<li>Document managment
+<ul>
+<li>move to sent folder after sending</li>
+</ul></li>
+</ul>
+</div>
+<div id="site-stations" class="section level2">
+<h2>Site Stations</h2>
+<ul>
+<li><code>M1001</code> where:
+<ul>
+<li>M: Multiplex</li>
+<li>1: Level</li>
+<li>001: Sequential number</li>
+</ul></li>
+</ul>
+<p>Note: For projects over 10 storeys, use 01 for Level</p>
+<ul>
+<li>Use <code>M1001D</code> for additional stations set by others
+<ul>
+<li>e.g. D: Dunne OR S: Snedden</li>
+</ul></li>
+</ul>
+</div>
+<div id="inoformation-sources" class="section level2">
+<h2>Inoformation sources</h2>
+<ul>
+<li><a href="../data/ncs-cad-layer-guidelines.pdf">ncs-cad-layer-guidelines.pdf</a></li>
+<li><a href="http://academics.triton.edu/faculty/fheitzman/layname.html" class="uri">http://academics.triton.edu/faculty/fheitzman/layname.html</a></li>
+<li><a href="http://designerhacks.com/organize-autocad-layers-buildings/" class="uri">http://designerhacks.com/organize-autocad-layers-buildings/</a></li>
+</ul>
+</div>
+<div id="cad-directory-structure" class="section level2">
+<h2>CAD Directory Structure</h2>
+<ul>
+<li>CAD
+<ul>
+<li>data: Any data that I use/edit for data that is not a xref</li>
+<li>xrefs</li>
+<li>src: All source files sent from client/desgner/contractor w/ YYMMMDD - Senders Name - Description
+<ul>
+<li>Never modify or link to files in this folder. If Using a file, copy it to the data folder.</li>
+</ul></li>
+</ul></li>
+<li>PRODUCTION</li>
+</ul>
+<p><a href="http://cadintentions.com/folders/" class="uri">http://cadintentions.com/folders/</a></p>
+<p>See below for a potentially better version of naming conventions. This makes use of Sheets and ALL information is an xref. This will be good to practice.</p>
+<p><a href="http://www.caddmanager.com/CMB/2009/06/cad-standards-folder-notes/" class="uri">http://www.caddmanager.com/CMB/2009/06/cad-standards-folder-notes/</a></p>
+</div>
+<div id="cad" class="section level2">
+<h2>CAD</h2>
+</div>
+
+    </div>
+ 
+    <ul class="article-taxonomy">
+      
+    
+      
+  </article>
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank"><i class="fa fa-rss"></i> RSS feed</a>
+          </li>
+          <li>
+            <a href="https://github.com/mobybit/hugo-natrium-theme"><i class="fa fa-github"></i> Code</a>
+          </li>
+          <li>
+            <a href="/site-notice">Site notice</a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+
+  </body>
+</html>
+

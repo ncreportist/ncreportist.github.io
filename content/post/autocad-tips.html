@@ -1,0 +1,84 @@
+---
+title: "AutoCAD Tips"
+date: "2018-01-01"
+categories: []
+tags: []
+bibliography: Library.bib
+typora-root-url: ../../public/
+draft: true
+---
+
+
+
+<div id="about" class="section level2">
+<h2>About</h2>
+<p>Add all tips I pick up re: AutoCAD</p>
+</div>
+<div id="useful-keyboard-commands" class="section level2">
+<h2>Useful keyboard commands</h2>
+<ul>
+<li><code>eattext</code> allows the exporting of a csv file without addons</li>
+<li><code>qselect</code> allows selection of all items using filters (e.g. all in a sepcific layer)</li>
+<li><code>mleaderstyle</code> like dimstyle but for multileaders</li>
+<li><code>regen</code> regenerates the page and “un-facates” curves</li>
+<li><code>divide</code> divides a line into equal sections</li>
+<li><code>units</code> to change the decimal place of the properties values</li>
+<li><code>align</code></li>
+</ul>
+<p><img src="/align.png" /></p>
+<ul>
+<li><code>UCS -&gt; OBject</code> to align a page view, <code>plan -&gt; Current</code> to Center the view</li>
+<li><code>borrowlisence</code> allow offline access to network liscened AutoCAD</li>
+<li><code>draworder</code> move elements to back/move to front</li>
+<li><code>pdfclip</code> crops pdfs</li>
+<li><code>osnapz:1</code> then <code>chamfer</code> to join 2 lines which are not inline w/ each other
+<ul>
+<li>Note: osnapz</li>
+</ul></li>
+<li><code>ddptype</code> to change it to scale</li>
+<li><code>multiple</code> then <code>points</code> allows for multiple points. paste csv formated E,N,Z and it will add all points (minus the point ID)</li>
+<li><code>&quot;right-click and drag&quot;</code> to move or copy object</li>
+<li><code>&quot;select box drag left and right&quot;</code> have diffenrt functions</li>
+<li>create a <code>script.src</code> with commands and data. Ensure there is a return after the last command/data
+<ul>
+<li>See <a href="../data/muliple-pts-script.txt">script.scr</a> for example</li>
+</ul></li>
+<li><code>ps</code> to exit a viewport</li>
+<li><code>burst</code> is an alternative to explode which maintains linked text</li>
+<li><code>qnew</code> create a new document from a template</li>
+<li><code>xref</code></li>
+<li>If errors with attaching an xref use <code>purge</code> and <code>audit</code> and try again</li>
+<li><code>viewport</code> will insert a viewport to a paperspace</li>
+<li><code>laydel</code> force deletes a layer</li>
+<li><code>pdfimport</code></li>
+</ul>
+</div>
+<div id="general-tips" class="section level2">
+<h2>General tips</h2>
+<ul>
+<li><strong>Pixilated text when printing to pdf:</strong> increase the paper size</li>
+<li><strong>Utilise Bluebeam Revu:</strong> update logistics/services drawing on autocad and use Bluebeam to update items which change frequently e.g. walkways</li>
+<li><strong>Label coords:</strong> <a href="http://www.cad-notes.com/how-to-label-coordinate-in-autocad/" class="uri">http://www.cad-notes.com/how-to-label-coordinate-in-autocad/</a> OR <a href="http://www.cad-notes.com/using-autolisp-to-label-point-coordinate/" class="uri">http://www.cad-notes.com/using-autolisp-to-label-point-coordinate/</a></li>
+<li><strong>Set measurement scale to 100</strong></li>
+<li><strong>Sheet sets</strong> are used to
+<ul>
+<li>automatically number and annotate text in title blocks</li>
+<li>callout blocks and label blocks</li>
+<li>See <a href="http://www.ellenfinkelstein.com/acadblog/autocad-tutorial-create-a-simple-sheet-set/" class="uri">http://www.ellenfinkelstein.com/acadblog/autocad-tutorial-create-a-simple-sheet-set/</a> for tutorial
+## VBA Macros</li>
+</ul></li>
+</ul>
+<p><a href="http://engineeringsurveyor.com/utilities/index.htm#AutoCAD">engineeringsurveyor</a></p>
+</div>
+<div id="numbering-points" class="section level2">
+<h2>Numbering points</h2>
+<p>Use engineering surveyor Import/Export point scripts</p>
+<ul>
+<li>export to a csv with the same name as layer</li>
+<li>ensure you set the starting number the last number used + 1</li>
+<li>Save and import csv as points
+<ul>
+<li>Find a way to not import duplicate values</li>
+</ul></li>
+</ul>
+</div>
